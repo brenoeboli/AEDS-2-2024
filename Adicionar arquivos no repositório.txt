@@ -1,0 +1,7 @@
+Adicionar arquivos no repositório:
+
+git add .
+
+git commit -m "Mensagem do commit"
+
+git push
